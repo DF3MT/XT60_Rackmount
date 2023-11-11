@@ -3,11 +3,19 @@
 please find some images</p>
 
 <h2></h2>
+<<<<<<< HEAD
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(1).JPG" width="300px" style="float:left;" />
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(2).JPG" width="300px" style="float:left;"  />
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(3).JPG" width="300px" style="float:left;"  />
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(4).JPG" width="300px" style="float:left;"  />
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(5).JPG" width="300px" style="float:left;"  />
+=======
+<img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(1).JPG" width="300px" />
+<img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(2).JPG" width="300px" />
+<img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(3).JPG" width="300px" />
+<img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(4).JPG" width="300px" />
+<img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(5).JPG" width="300px" />
+>>>>>>> 8e13aaac445aa3de0fc526ff32f7e6fa17b9430c
 
 
 Contribute by a free membership at letyshops pay back service. Here u can save some money while buying stuff at the internet.
