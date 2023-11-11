@@ -9,7 +9,6 @@ please find some images</p>
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(4).JPG" width="300px" style="float:left;"  />
 <img src="https://github.com/DF3MT/XT60_Rackmount/blob/master/images/(5).JPG" width="300px" style="float:left;"  />
 
-
 Contribute by a free membership at letyshops pay back service. Here u can save some money while buying stuff at the internet.
 https://letyshops.com/de/winwin?ww=13870485
 
